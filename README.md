@@ -1,11 +1,11 @@
 # Portfolio Website
-Responsive bir Portfolio web sitesi geliştirildi.
+This is a personal portfolio website created to showcase persons's skills, projects, and professional background. Built with HTML and CSS, this static site features a clean and modern design, highlighting  work and achievements in a user-friendly format.
 
-# Kullanılan Teknolojiler
--HTML
--CSS
+# Technologies Used
+- HTML: For the structure and content of the website.
+- CSS:For styling and layout, ensuring a responsive and visually appealing design.
 
-# Ekran Görüntüleri
+# Preview
 
 ![](İmage/pp2.png)
 ![](İmage/pp1.png)
