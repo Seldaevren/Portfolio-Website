@@ -6,7 +6,6 @@ This is a personal portfolio website created to showcase persons's skills, proje
 - CSS:For styling and layout, ensuring a responsive and visually appealing design.
 
 # Preview
-
 ![](İmage/pp2.png)
 ![](İmage/pp1.png)
 
